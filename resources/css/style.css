@@ -14,7 +14,9 @@ a {
 	align-content: center;
 	font-family:verdana;
 }
-div.img_phone {
-	align-content:center;
-	margin-top: 30px; 
+.img_phone {
+	margin-top: 30px;
+	width:200px;
+	height:300px;
+	margin: 0 auto; 
 }
