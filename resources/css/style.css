@@ -12,8 +12,9 @@ a {
 	color: aquamarine;
 	font-size: 16px;
 	align-content: center;
+	font-family:verdana;
 }
-class_img_phone {
+.class_img_phone {
 	align-content:center;
 	margin-top: 30px; 
 }
